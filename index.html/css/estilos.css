@@ -27,7 +27,7 @@ a{
     color: red;
 }
 *:required {
-    background-color: gold;
+    background-color:#dcb958;
 }
 
 
@@ -108,7 +108,7 @@ iframe{
 .form-inicio1{
     border: 1px solid black;
     width: 100%;
-    background-color:#5ACAFB ;
+    background-color:#f6eacf ;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
